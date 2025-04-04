@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pytesseract
+pandas
+flask
+ultralytics
+scipy
+tkinter
