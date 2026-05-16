@@ -228,4 +228,3 @@ if __name__ == '__main__':
     gui.mainloop()
     video.release()
     cv2.destroyAllWindows()
-# Hi
